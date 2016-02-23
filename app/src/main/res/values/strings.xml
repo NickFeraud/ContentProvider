@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+        <string name="empid">Employee ID</string>
+        <string name="emp_name">Name</string>
+        <string name="gender">Gender</string>
+        <string name="email">Email</string>
+        <string name="acode">Access Code</string>
+        <string name="dept">Department</string>
+        <string name="adacc">A/D Access</string>.
+        <string name="male">Male</string>
+        <string name="fem">Female</string>
+        <string name="confirm">Confirm Code</string>
+        <string name="ad_question">Allowed Access?</string>
+        <string name="reset">Reset</string>
+        <string name="submit">Submit</string>
+        <string-array name="dept_array">
+            <item>Biology</item>
+            <item>Computer Science</item>
+            <item>Communications</item>
+            <item>Math</item>
+        </string-array>
+        <string-array name="emp_array">
+            <item>ABC123</item>
+            <item>DEF456</item>
+            <item>GHI789</item>
+        </string-array>
+</resources>
